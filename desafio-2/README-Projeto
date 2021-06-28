@@ -4,8 +4,8 @@ Desenvolver aplicação de pedidos de delivery.
 
 A aplicação deve conter duas páginas para o usuario:
 
-- Uma onde possa visualizar os produtos, e solicitar um pedido.
-- Outra com os detalhes do pedido onde o status será atualizado em tempo real.
+- Uma onde possa visualizar os produtos, e solicitar um pedido. -> GET
+- Outra com os detalhes do pedido onde o status será atualizado em tempo real. -> GET
 
 Deve conter também uma página para o estabelecimento:
 
